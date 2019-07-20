@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlaskServer_android</string>
+    <string name="baseUrl">http://192.168.219.147:5000</string>
+</resources>
